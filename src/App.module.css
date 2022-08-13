@@ -1,0 +1,47 @@
+.container{
+    background-color: rgb(42, 45, 45);
+    color: white;
+    font-size: 13px;
+    text-align: center;
+    width: 30%;
+    border-radius: 30px;
+    /* padding: 20px 20px; */
+    margin: auto auto;
+  
+}
+.lady img{
+  width: 100%;
+}
+.btn button{
+  padding: 8px 30px;
+  border-radius: 10px;
+  border: none;
+  font-size: 18px;
+ 
+ 
+}
+button:hover{
+  background-color: rgb(150, 184, 240);
+  color: rgb(56, 53, 53);
+  font-size: 18px;
+}
+.foot{
+  background-color: rgb(32, 33, 33);
+ 
+}
+
+.job h1{
+  font-size: 40px;
+  color: #ffff;
+}
+.job span{
+  font-size: 20px;
+  color: bisque;
+}
+.paragraph{
+  text-align: left;
+  padding: 0px 40px;
+}
+.paragraph h4{
+  font-size: 25px;
+}
